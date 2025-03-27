@@ -1,0 +1,5 @@
+C:\Users\caras\desktop\LP1\LP1Semana06\MyGame\obj\Debug\net8.0\MyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caras\desktop\LP1\LP1Semana06\MyGame\obj\Debug\net8.0\MyGame.AssemblyInfoInputs.cache
+C:\Users\caras\desktop\LP1\LP1Semana06\MyGame\obj\Debug\net8.0\MyGame.AssemblyInfo.cs
+C:\Users\caras\desktop\LP1\LP1Semana06\MyGame\obj\Debug\net8.0\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\caras\desktop\LP1\LP1Semana06\MyGame\obj\Debug\net8.0\MyGame.sourcelink.json
