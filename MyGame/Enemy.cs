@@ -40,5 +40,11 @@ namespace MyGame
         {
             return health;
         }
+
+        public string GetShield(int shield)
+        {
+            return shield;
+        }
+        
     }
 }
