@@ -1,9 +1,9 @@
 using System;
 
-namespace Enemy
+namespace MyGame
 {
-    public class Attack
+    public class Enemy
     {
-
+        public Enemy() {}
     }
 }

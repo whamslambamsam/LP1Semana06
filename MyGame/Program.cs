@@ -2,13 +2,11 @@
 
 namespace MyGame
 {
-    public class Enemy
+    public class Program
     {
-
-    }
-    
-    static void main()
-    {
-            
+        private static void Main(string[] args)
+        {
+            Enemy enemy = new Enemy();
+        }
     }
 }
