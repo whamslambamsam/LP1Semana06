@@ -10,5 +10,10 @@ namespace MyGame
             int health = 100;
             int shield = 0;
         }
+
+        public string GetName(string name)
+        {
+            return name;
+        }
     }
 }
