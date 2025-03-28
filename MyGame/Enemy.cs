@@ -15,12 +15,11 @@ namespace MyGame
         {
             return name;
         }
-        
+
         public void TakeDamage(float damage)
         {
             // A variável shield é subtraida pelo valor da variável damage
-            shield -= damage;
-
+            shield -= damage
             // Se a variável shield for menor que zero, então:
             if (shield < 0)
             {
@@ -35,6 +34,11 @@ namespace MyGame
                 // para 0.
                 if (health < 0) health = 0;
             }
+        }
+
+        public string GetHealth(int health)
+        {
+            return health;
         }
     }
 }
