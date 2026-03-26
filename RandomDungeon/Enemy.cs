@@ -28,6 +28,11 @@ namespace RandomDungeon
             this.attack = attack;
         }
 
+        static GenerateRandomEnemy(int seed)
+        {
+            
+        }
+
         public string GetName()
         {
             return name;
