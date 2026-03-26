@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 
 namespace RandomDungeon
 {
@@ -36,7 +37,7 @@ namespace RandomDungeon
         // Exemplo: "Arena: Troll, Skeleton, Ogre"
         public void ShowEnemies()
         {
-            // CÓDIGO AQUI
+            Console.WriteLine("Arena: " + enemies);
         }
         
         // Simula uma Batalha Entre Dois Inimigos
