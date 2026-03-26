@@ -8,6 +8,15 @@ namespace MyGame
         private float health;
         private float shield;
 
+        public string SetName(string n)
+        {
+            if (n.Length > 8)
+            {
+                n = n.Substring(0, 8);
+            }
+            return name = n;
+        }
+
         public string GetName()
         {
             return name;
