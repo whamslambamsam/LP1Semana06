@@ -13,8 +13,11 @@ namespace RandDice
 
             for(int i = 0; i < n; i++)
             {
-                
+                int randnum = rand.Next(0, 7);
+                total += randnum;
             }
+
+            Console.WriteLine(total);
         }
     }
 }
