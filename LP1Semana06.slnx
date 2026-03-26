@@ -2,4 +2,5 @@
   <Project Path="Chronos/Chronos.csproj" />
   <Project Path="MyGame/MyGame.csproj" />
   <Project Path="RandDice/RandDice.csproj" />
+  <Project Path="RandomDungeon/RandomDungeon.csproj" />
 </Solution>
